@@ -1,0 +1,31 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tps\TP2\Actualizado\TP-02-Cascara.r2\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tps\TP2\Actualizado\TP-02-Cascara.r2\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tps\TP2\Actualizado\TP-02-Cascara.r2\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tps\TP2\Actualizado\TP-02-Cascara.r2\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tps\TP2\Actualizado\TP-02-Cascara.r2\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tps\TP2\Actualizado\TP-02-Cascara.r2\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tp_laboratorio_2\TP2_HerreraMartin_2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tp_laboratorio_2\TP2_HerreraMartin_2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tp_laboratorio_2\TP2_HerreraMartin_2D\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tp_laboratorio_2\TP2_HerreraMartin_2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tp_laboratorio_2\TP2_HerreraMartin_2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tp_laboratorio_2\TP2_HerreraMartin_2D\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP2_HerreraMartin_2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP2_HerreraMartin_2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP2_HerreraMartin_2D\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP2_HerreraMartin_2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP2_HerreraMartin_2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP2_HerreraMartin_2D\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,41 @@
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tp_laboratorio_2\TP1_HerreraMartin_2D\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tp_laboratorio_2\TP1_HerreraMartin_2D\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tp_laboratorio_2\TP1_HerreraMartin_2D\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tp_laboratorio_2\TP1_HerreraMartin_2D\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tp_laboratorio_2\TP1_HerreraMartin_2D\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tp_laboratorio_2\TP1_HerreraMartin_2D\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tp_laboratorio_2\TP1_HerreraMartin_2D\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tp_laboratorio_2\TP1_HerreraMartin_2D\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tp_laboratorio_2\TP1_HerreraMartin_2D\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tp_laboratorio_2\TP1_HerreraMartin_2D\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tp_laboratorio_2\TP1_HerreraMartin_2D\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tp_laboratorio_2\TP1_HerreraMartin_2D\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\marti\Desktop\Facultad\Segundo cuatrimestre\Programación II y Laboratorio II\Tps\tp_laboratorio_2\TP1_HerreraMartin_2D\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_HerreraMartin_2D\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_HerreraMartin_2D\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_HerreraMartin_2D\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_HerreraMartin_2D\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_HerreraMartin_2D\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_HerreraMartin_2D\MiCalculadora\obj\Debug\MiCalculadora.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_HerreraMartin_2D\MiCalculadora\obj\Debug\MiCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_HerreraMartin_2D\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_HerreraMartin_2D\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_HerreraMartin_2D\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_HerreraMartin_2D\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_HerreraMartin_2D\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_HerreraMartin_2D\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_HerreraMartin_2D\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_FigueroaDamian_2D\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_FigueroaDamian_2D\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_FigueroaDamian_2D\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_FigueroaDamian_2D\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_FigueroaDamian_2D\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_FigueroaDamian_2D\MiCalculadora\obj\Debug\MiCalculadora.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_FigueroaDamian_2D\MiCalculadora\obj\Debug\MiCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_FigueroaDamian_2D\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_FigueroaDamian_2D\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_FigueroaDamian_2D\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_FigueroaDamian_2D\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_FigueroaDamian_2D\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_FigueroaDamian_2D\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\TP1_FigueroaDamian_2D\MiCalculadora\obj\Debug\MiCalculadora.pdb
